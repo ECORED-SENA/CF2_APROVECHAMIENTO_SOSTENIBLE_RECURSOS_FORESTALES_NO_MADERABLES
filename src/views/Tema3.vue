@@ -18,7 +18,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Métodos de recolección
 
-    p.mb-5 La cosecha de PFNM, tanto en estado silvestre como cultivado, <strong>no implica la tala de plantas o árboles enteros</strong>. Generalmente no requiere tecnologías especializadas, y los métodos se adaptan al tipo de producto. A continuación, se presentan los procesos más comunes de recolección por tipo de recurso:
+    p.mb-5 La cosecha de PFNM, tanto en estado silvestre como cultivado, <strong>no implica la tala de plantas o árboles enteros</strong>. Por lo general, no requiere tecnologías especializadas, y los métodos se adaptan al tipo de producto. A continuación, se presentan los procesos más comunes de recolección por tipo de recurso:
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Fibras")
@@ -138,7 +138,7 @@
       .col
         h3 B. Impactos positivos derivados del manejo sostenible
     
-    p.mb-5 Además de los anteriores, se pueden generar impactos adicionales que refuerzan la sostenibilidad del proceso:
+    p.mb-5 A continuación, se presenta un pódcast  que aborda los impactos positivos derivados del manejo sostenible de los recursos naturales, destacando sus beneficios ambientales, sociales y culturales en contextos rurales e indígenas.
 
     .row.align-items-center.m-0.mb-5
       .col-xl
@@ -147,7 +147,7 @@
             figure.d-none.d-xl-block(data-aos="fade-right")
               img(src="@/assets/curso/temas/img81.png" style="max-width: 220px").m-auto
           .col
-            h4.mb-4 Lo invitamos a escuchar el siguiente <em>Podcast</em>:
+            h4.mb-4 Lo invitamos a escuchar el siguiente <em>podcast</em>:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Impactos positivos derivados del manejo sostenible"
               :audio="require('@/assets/componentes/audios/Podcast_CF2_aprovechamiento_sostenible_ recursos_forestales_no_maderables.mp3')"
@@ -164,7 +164,7 @@
       .col
         h3 C. Otros beneficios derivados del aprovechamiento sostenible
     
-    p.mb-5 Además de los anteriores, se pueden generar impactos adicionales que refuerzan la sostenibilidad del proceso:
+    p.mb-5 Además de los anteriores, se pueden generar impactos adicionales que refuercen la sostenibilidad del proceso:
 
     .fondo___slider.mb-5
       .px-5

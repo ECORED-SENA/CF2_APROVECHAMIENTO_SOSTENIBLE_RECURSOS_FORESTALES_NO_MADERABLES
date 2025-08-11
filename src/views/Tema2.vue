@@ -88,7 +88,7 @@
                     img(src='@/assets/curso/temas/img45.png').m-auto
                 h4.mb-3.estilo-text Miel de abejas
 
-        p.mb-5 Los <strong>productos forestales no maderables (PFNM)</strong> que se obtienen del bosque ya sea de forma directa o mediante procesos de transformación cumplen funciones clave para las comunidades rurales, industrias artesanales y sectores productivos en Colombia. Entre estos productos se encuentran:
+        p.mb-5 Los <strong>productos forestales no maderables (PFNM)</strong> que se obtienen del bosque, ya sea de forma directa o mediante procesos de transformación, cumplen funciones clave para las comunidades rurales, industrias artesanales y sectores productivos en Colombia. Entre estos productos se encuentran:
 
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -260,7 +260,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Forraje
-                p.mb-0 Hojas de Aliso (<em>Alnus acuminata</em>), empleadas para alimentar ganado en potreros cercanos a bosques.
+                p.mb-0 Hojas de aliso (<em>Alnus acuminata</em>), empleadas para alimentar ganado en potreros cercanos a bosques.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img64.png', alt='').m-auto
@@ -286,17 +286,17 @@
                 h4 Medicina
                 p.mb-3 Se emplean más de 40 productos para usos medicinales o rituales. Entre ellos: 
                 <ul class="fa-ul estilo___i mb-0">
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Altamisa Grande (Ambrosia arborescens).</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Árnica de Páramo (Senecio formosus).</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Cola de Caballo (Equisetum bogotense).</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Altamisa grande (Ambrosia arborescens).</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Árnica de páramo (Senecio formosus).</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Cola de caballo (Equisetum bogotense).</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Cuasia (Quassia amara).</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Hineldo (Anethum graveolens).</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Orozuz (Lippia dulcis).</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Palo de Cruz (Brownea ariza).</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Ruda Castilla (Ruta graveolens).</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Poleo Grande (Minthostachys tomentosa).</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Pronto Alivio (Lippia alba).</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Sauco (Sambucus sp.), entre otras. También se usa propóleo y miel de abejas.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Palo de cruz (Brownea ariza).</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Ruda castilla (Ruta graveolens).</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Poleo grande (Minthostachys tomentosa).</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Pronto alivio (Lippia alba).</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-tree color___i"></i></span>Sauco (Sambucus sp.), entre otras. También se usan propóleo y miel de abejas.</li>
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block

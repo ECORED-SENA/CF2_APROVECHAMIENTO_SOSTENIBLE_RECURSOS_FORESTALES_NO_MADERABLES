@@ -25,7 +25,7 @@
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
             figure.d-none.d-xl-block
-              img(src='@/assets/curso/temas/img101.png', alt="" ).m-auto
+              img(src='@/assets/curso/temas/img102.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Artesanías
             p.mb-0 Uso de fibras y tintes naturales como materia prima para la elaboración de productos artesanales con alto valor cultural y comercial.
@@ -34,7 +34,7 @@
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
             figure.d-none.d-xl-block
-              img(src='@/assets/curso/temas/img102.png', alt="" ).m-auto
+              img(src='@/assets/curso/temas/img101.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Alimentos
             p.mb-0 Empleo de frutos silvestres, semillas comestibles y otros insumos vegetales en la producción de alimentos, bebidas e ingredientes para cadenas agroalimentarias.
@@ -71,9 +71,9 @@
       .col-xl.espacio___movil_4
         figure.d-none.d-xl-block.mb-3(data-aos="fade-left")
           img(src='@/assets/curso/temas/img106.svg', alt='' style="max-width: 76px")
-        p.mb-0 El Asaí es recolectado principalmente en el Amazonas colombiano, donde su producción varía a lo largo del año según las condiciones climáticas. La temporada de cosecha se concentra entre los meses de abril y junio. Cada planta puede producir entre 1 y 5 racimos, con un rendimiento promedio de 9,5 kg por planta. Recolección comunitaria.
+        p.mb-0 El Asaí es recolectado principalmente en el Amazonas Colombiano, donde su producción varía a lo largo del año según las condiciones climáticas. La temporada de cosecha se concentra entre los meses de abril y junio. Cada planta puede producir entre 1 y 5 racimos, con un rendimiento promedio de 9,5 kg por planta. Recolección comunitaria.
     
-    p.mb-5.espacio___movil_1 La actividad es realizada por comunidades indígenas, como los Nukak Makú, quienes organizan grupos de trabajo y pueden recolectar hasta 850 kg de Asaí por día. El primer paso consiste en identificar las palmas aptas para el aprovechamiento, las cuales deben:
+    p.mb-5.espacio___movil_1 La actividad es realizada por comunidades indígenas, como los <em>Nukak Makú</em>, quienes organizan grupos de trabajo y pueden recolectar hasta 850 kg de Asaí por día. El primer paso consiste en identificar las palmas aptas para el aprovechamiento, las cuales deben:
 
     .row.justify-content-center.mb-5.m-0
       .col-xl-10

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Aprovechamiento de recursos forestales no maderables',
     Description:
-      'Este componente describe las aspectos técnicos y normativos asociados al aprovechamiento de los recursos forestales no maderables, los cuales generan oportunidades para la ejecución de proyectos productivos. Las temáticas descritas le permiten conocer los aspectos normativos requeridos para los permisos ambientales relacionados con el aprovechamiento de productos no maderables, adicionalmente encuentra aspectos relacionados con la recolección, el uso potencial, manufactura y cadena de valor.',
+      'Este componente describe los aspectos técnicos y normativos asociados al aprovechamiento de los recursos forestales no maderables, los cuales generan oportunidades para la ejecución de proyectos productivos. Las temáticas descritas le permiten conocer los aspectos normativos requeridos para los permisos ambientales relacionados con el aprovechamiento de productos no maderables; adicionalmente, encuentra aspectos relacionados con la recolección, el uso potencial, manufactura y cadena de valor.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
