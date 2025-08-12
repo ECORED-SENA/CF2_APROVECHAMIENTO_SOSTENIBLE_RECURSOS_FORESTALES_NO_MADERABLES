@@ -323,7 +323,7 @@ export default {
       ],
     },
     {
-      titulo: 'GESTORES DE REPOSITORIO',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
           nombre: 'Aixa Natalia Sendoya Fernández',
