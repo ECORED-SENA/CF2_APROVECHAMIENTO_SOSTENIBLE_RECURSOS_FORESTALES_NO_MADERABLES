@@ -187,7 +187,7 @@ export default {
         'Congreso de Colombia. (1993, 22 de diciembre). Ley 99 de 1993, por la cual se crea el Ministerio del Medio Ambiente, se reordena el sector público encargado de la gestión y conservación del medio ambiente y los recursos naturales renovables, se organiza el Sistema Nacional Ambiental (SINA) y se dictan otras disposiciones. Diario Oficial No. 41.146.',
       tipo: 'Ley',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=29',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=297',
     },
     {
       tema: 'Normativa',
