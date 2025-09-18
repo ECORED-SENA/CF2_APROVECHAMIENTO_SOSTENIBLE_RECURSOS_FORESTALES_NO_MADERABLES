@@ -106,7 +106,7 @@
             .row(titulo="Segunda transformación").ajuste-cajaAcordion
               p.mb-0 Se elaboran productos derivados como helados, infusiones, bebidas energizantes y <em>bowls</em> de Asaí combinados con frutas, cereales u otros ingredientes.
             .row(titulo="Comercialización final").ajuste-cajaAcordion
-              p.mb-3 Implica la identificación de consumidores y la compra y venta de pulpa, productos elaborados y subproductos del Asaí.
+              p.mb-3 Implica la identificación de consumidores, la compra y venta de pulpa, productos elaborados y subproductos del Asaí.
         .col-xl-auto
           figure(data-aos="fade-left").d-none.d-xl-block
             img(src="@/assets/curso/temas/img107.png", alt="" style="width: 400px").m-auto

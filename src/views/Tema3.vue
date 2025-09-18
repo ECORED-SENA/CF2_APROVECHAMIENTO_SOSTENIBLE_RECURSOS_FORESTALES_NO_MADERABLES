@@ -12,7 +12,7 @@
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img74.png', alt='').m-auto
       .col-xl
-        p.mb-0 La recolección de <strong>productos forestales no maderables (PFNM)</strong> está profundamente vinculada a prácticas ancestrales desarrolladas por comunidades rurales e indígenas. Estas actividades permiten el aprovechamiento de los recursos que ofrece el bosque <strong>sin necesidad de talarlo</strong>, generando una <strong>interacción sostenible con los ecosistemas</strong> y promoviendo alternativas productivas compatibles con la conservación.
+        p.mb-0 La recolección de <strong>Productos Forestales No Maderables (PFNM)</strong> está profundamente vinculada a prácticas ancestrales desarrolladas por comunidades rurales e indígenas. Estas actividades permiten el aprovechamiento de los recursos que ofrece el bosque <strong>sin necesidad de talarlo</strong>, generando una <strong>interacción sostenible con los ecosistemas</strong> y promoviendo alternativas productivas compatibles con la conservación.
 
     <!-- BLOQUE 1 -->
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -107,7 +107,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Impactos ambientales
 
-    p.mb-5 El aprovechamiento forestal de <strong>productos no maderables (PFNM)</strong> puede generar tanto <strong>impactos ambientales negativos como positivos</strong>, dependiendo del enfoque con que se realice la actividad. Las prácticas inadecuadas pueden causar degradación ecológica, mientras que un manejo planificado y sostenible contribuye a la conservación del bosque y al bienestar de las comunidades. Estos impactos se detallan a continuación:
+    p.mb-5 El aprovechamiento forestal de <strong>Productos Forestales No Maderables (PFNM)</strong> puede generar tanto <strong>impactos ambientales negativos como positivos</strong>, dependiendo del enfoque con que se realice la actividad. Las prácticas inadecuadas pueden causar degradación ecológica, mientras que un manejo planificado y sostenible contribuye a la conservación del bosque y al bienestar de las comunidades. Estos impactos se detallan a continuación:
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -219,7 +219,7 @@
 
     .row.align-items-center.m-0.mb-5.style___box_12.ajuste___color_3(data-aos="zoom-in")
       .col-xl
-        p.mb-0 El diseño de los elementos de protección individual (EPI) responde a la necesidad de disminuir el riesgo de los trabajadores en el sector forestal, considerando los distintos niveles de exposición a peligros a los que se enfrentan quienes participan, directa o indirectamente, en las labores propias del contexto productivo.
+        p.mb-0 El diseño de los Elementos de Protección Personal (EPP) responde a la necesidad de disminuir el riesgo de los trabajadores en el sector forestal, considerando los distintos niveles de exposición a peligros a los que se enfrentan quienes participan, directa o indirectamente, en las labores propias del contexto productivo.
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img88.svg', alt='').m-auto
@@ -313,7 +313,7 @@
             .p-4
               p.mb-0 Utilizar el equipo de protección individual acorde con las especificaciones y orientaciones del trabajo a desarrollar en el campo forestal.
 
-    p.mb-5 Los trabajos en entornos forestales exigen condiciones de seguridad rigurosas para proteger la salud e integridad de los trabajadores. El uso adecuado de los elementos de protección personal (EPP) es fundamental para prevenir accidentes y enfermedades laborales. A continuación, se presentan los principales equipos que deben utilizarse en labores de aprovechamiento forestal no maderable, resaltando la importancia de su correcta implementación en cada parte del cuerpo.
+    p.mb-5 Los trabajos en entornos forestales exigen condiciones de seguridad rigurosas para proteger la salud e integridad de los trabajadores. El uso adecuado de los Elementos de Protección Personal (EPP) es fundamental para prevenir accidentes y enfermedades laborales. A continuación, se presentan los principales equipos que deben utilizarse en labores de aprovechamiento forestal no maderable, resaltando la importancia de su correcta implementación en cada parte del cuerpo.
 
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Figura 1.

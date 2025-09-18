@@ -158,7 +158,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/XXXXXXXX_CF02_DU.zip',
+        download: 'downloads/22220146_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -207,6 +207,16 @@ export default {
   ],
   glosario: [
     {
+      termino: 'Cadena de valor',
+      significado:
+        'conjunto de actividades sucesivas que agregan valor a un producto, desde la recolección de recursos forestales no maderables hasta su transformación, comercialización y consumo final.',
+    },
+    {
+      termino: 'Concesión forestal',
+      significado:
+        'autorización otorgada por la autoridad ambiental para el uso de productos forestales no maderables en áreas de reserva, sin transferir la propiedad de la tierra.',
+    },
+    {
       termino: 'Estudio técnico',
       significado:
         'documento elaborado por el interesado en el manejo sostenible de la flora silvestre y de los productos forestales no maderables con fines comerciales, por medio del cual se caracterizan, proponen y analizan aspectos biológicos, ecológicos, productivos y socioculturales que demuestran que existe una adecuada estabilidad poblacional, que permita un manejo sostenible de las especies objeto de interés.',
@@ -217,10 +227,25 @@ export default {
         'conjunto de especies e individuos vegetales del territorio nacional que no se han plantado o mejorado por el hombre, presentes en ecosistemas naturales diferentes al bosque natural. Incluye la flora acuática.',
     },
     {
+      termino: 'Productos Forestales No Maderables (PFNM)',
+      significado:
+        'bienes obtenidos de los bosques, distintos a la madera, que incluyen fibras, resinas, gomas, aceites, frutos, semillas, plantas medicinales y ornamentales.',
+    },
+    {
       termino:
         'Protocolo para el manejo sostenible de la flora silvestre y de los productos forestales no maderables',
       significado:
         'documento técnico que contiene los lineamientos para el manejo sostenible de la flora silvestre y de los productos forestales no maderables.',
+    },
+    {
+      termino: 'Recolección sostenible',
+      significado:
+        'práctica de obtención de productos forestales que asegura la conservación del ecosistema, evitando la sobreexplotación y promoviendo la regeneración natural.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'proceso que permite seguir el recorrido de los productos forestales no maderables desde su origen hasta el consumidor final, garantizando transparencia y sostenibilidad.',
     },
   ],
   referencias: [

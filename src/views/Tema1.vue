@@ -83,7 +83,7 @@
       .col
         h3 Procedimiento para la obtención del permiso de aprovechamiento
 
-    p.mb-5 Según lo establecido en el Decreto 690 de 2021, tanto el manejo doméstico como el persistente de productos forestales no maderables deben cumplir un procedimiento administrativo ante la autoridad ambiental competente. A continuación se detallan los pasos según el tipo de manejo solicitado: 
+    p.mb-5 Según lo establecido en el Decreto 690 de 2021, tanto el manejo doméstico como el persistente de productos forestales no maderables deben cumplir un procedimiento administrativo ante la autoridad ambiental competente. A continuación, se detallan los pasos según el tipo de manejo solicitado: 
 
     .fondo___slider.mb-5
       .px-5
@@ -269,13 +269,13 @@
       .row.h-100.align-items-center
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-right")
-            .row(titulo="1993 — Ley 99").ajuste-cajaAcordion
+            .row(titulo="Ley 99 de 1993").ajuste-cajaAcordion
               p.mb-0 Crea el Sistema Nacional Ambiental (SINA) y asigna competencias a las autoridades ambientales. Reconoce la necesidad de regular el aprovechamiento sostenible de los recursos naturales, incluyendo productos no maderables.
-            .row(titulo="2000 — Ley 633").ajuste-cajaAcordion
+            .row(titulo="Ley 633 de 2000").ajuste-cajaAcordion
               p.mb-0 Regula el cobro por servicios de evaluación ambiental. Aplica a los trámites de permisos para el uso de productos forestales no maderables.
-            .row(titulo="2011 — Ley 1450").ajuste-cajaAcordion
+            .row(titulo="Ley 1450 de 2011").ajuste-cajaAcordion
               p.mb-0 Promueve el uso sostenible de la biodiversidad en el marco del desarrollo sostenible. Incluye incentivos para integrar productos no maderables en planes productivos.
-            .row(titulo="2015 — Decreto 1076 ").ajuste-cajaAcordion
+            .row(titulo="Decreto 1076 de 2015").ajuste-cajaAcordion
               p.mb-3 Compila y organiza la normativa ambiental. Define procedimientos y tipos de permisos (doméstico, persistente, especial) para el aprovechamiento de productos no maderables.
         .col-xl-auto
           figure(data-aos="fade-left").d-none.d-xl-block
@@ -288,11 +288,11 @@
             img(src="@/assets/curso/temas/img28.png", alt="" style="width: 450px").m-auto
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
-            .row(titulo="2017 — Resolución 1909").ajuste-cajaAcordion
+            .row(titulo="Resolución 1909 de 2017").ajuste-cajaAcordion
               p.mb-0 Regula el salvoconducto único nacional en línea para movilizar especímenes de la biodiversidad, incluyendo productos no maderables.
-            .row(titulo="2018 — Resolución 1740").ajuste-cajaAcordion
+            .row(titulo="Resolución 1740 de 2018").ajuste-cajaAcordion
               p.mb-3 Establece lineamientos generales para el manejo, aprovechamiento y establecimiento de guaduales y bambusales.
-            .row(titulo="2021 — Decreto 690").ajuste-cajaAcordion
+            .row(titulo="Decreto 690 de 2021").ajuste-cajaAcordion
               p.mb-3 Modifica y adiciona el Decreto 1076 en aspectos relacionados con la silvicultura y productos forestales no maderables, reforzando criterios de sostenibilidad y trazabilidad.
     
     .row.align-items-center.m-0.style___box_6(data-aos="zoom-in").espacio___movil_2

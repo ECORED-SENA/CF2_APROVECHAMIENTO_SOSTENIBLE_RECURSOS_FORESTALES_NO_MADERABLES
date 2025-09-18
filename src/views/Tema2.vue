@@ -12,7 +12,7 @@
         figure.d-none.d-xl-block  
           img(src='@/assets/curso/temas/img30.svg', alt='' ).m-auto
       .col-xl
-        p.mb-0 Una parte importante de los productos forestales no maderables (PFNM) corresponde a recursos que, además, funcionan como materia prima para la elaboración de diversos productos. A continuación, se presentan algunos materiales e insumos derivados de los PFNM, los cuales pueden clasificarse según su origen o como recursos básicos a partir de los cuales se obtienen los productos finales.
+        p.mb-0 Una parte importante de los Productos Forestales No Maderables (PFNM) corresponde a recursos que, además, funcionan como materia prima para la elaboración de diversos productos. A continuación, se presentan algunos materiales e insumos derivados de los PFNM, los cuales pueden clasificarse según su origen o como recursos básicos a partir de los cuales se obtienen los productos finales.
     
     .fondo___img
       .px-5
@@ -98,9 +98,9 @@
               img(src='@/assets/curso/temas/img46.jpg', alt='').m-auto
           .col-xl
             <ul class="fa-ul estilo___ul mb-0">
-              <li class="mb-3"><span class="fa-li"><i class="fas fa-tree"></i></span><strong>Insumos para artesanías</strong>.</li>
+              <li class="mb-3"><span class="fa-li"><i class="fas fa-tree"></i></span><strong>Insumos para artesanías</strong>: velas artesanales hechas con cera natural y resinas aromáticas, jabones naturales e inciensos a base de resinas.</li>
               <li class="mb-3"><span class="fa-li"><i class="fas fa-tree"></i></span><strong>Resinas</strong>: la resina de pino se utiliza en la fabricación de barnices, adhesivos, perfumes y en la industria farmacéutica.</li>
-              <li class="mb-3"><span class="fa-li"><i class="fas fa-tree"></i></span><strong>Aceites esenciales</strong>.</li>
+              <li class="mb-3"><span class="fa-li"><i class="fas fa-tree"></i></span><strong>Aceites esenciales</strong>: lavanda, eucalipto, menta, limón y árbol de té.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-tree"></i></span><strong>Colorantes naturales</strong>: la cúrcuma, empleada comúnmente en la gastronomía.</li>
             </ul>
     
